@@ -1,2 +1,5 @@
 # hello-word
-elso_repom
+
+Helló Emberek!
+
+Hamarosan itt fog állni az új kódom.
